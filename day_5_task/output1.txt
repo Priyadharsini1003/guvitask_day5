@@ -1,0 +1,64 @@
+
+Library Management System
+1. Add a new book
+2. Search for a book
+3. Remove a book
+4. Display all books
+5. Exit
+Enter an option: 1
+Enter book ID: 1
+Enter book title: book1
+Enter author name: aaa
+Book added successfully.
+
+Library Management System
+1. Add a new book
+2. Search for a book
+3. Remove a book
+4. Display all books
+5. Exit
+Enter an option: 1
+Enter book ID: 2
+Enter book title: book2
+Enter author name: bbb
+Book added successfully.
+
+Library Management System
+1. Add a new book
+2. Search for a book
+3. Remove a book
+4. Display all books
+5. Exit
+Enter an option: 2
+Enter book ID to search: 2
+Book found: guvitask.Book@246ae04d
+
+Library Management System
+1. Add a new book
+2. Search for a book
+3. Remove a book
+4. Display all books
+5. Exit
+Enter an option: 3
+Enter book ID to remove: 2
+Book removed successfully.
+
+Library Management System
+1. Add a new book
+2. Search for a book
+3. Remove a book
+4. Display all books
+5. Exit
+Enter an option: 4
+Displaying all books:
+guvitask.Book@60addb54
+
+Library Management System
+1. Add a new book
+2. Search for a book
+3. Remove a book
+4. Display all books
+5. Exit
+Enter an option: 5
+Exiting the program...
+1
